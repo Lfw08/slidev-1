@@ -1,5 +1,5 @@
 ---
-theme: excali-slide
+theme: unicorn
 addons:
   - slidev-component-progress
 
